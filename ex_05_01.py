@@ -7,7 +7,7 @@ while True:
     try:
         ival = int(num)    
     except:
-        print('Inavalid input')
+        print('Invalid input')
         continue
         
     if largest is None:
